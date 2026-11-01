@@ -8,7 +8,7 @@ Rules checked: November 1, 2026. Recheck [official rules](https://kiroween.devpo
 - [x] MIT license file included.
 - [x] Root `.kiro/` contains requirements, design, tasks, and steering.
 - [x] Project direction: Resurrection.
-- [ ] Public GitHub remote and pushed commit verified. Mark complete only after creation and push succeed.
+- [x] Public GitHub remote created and initial commit pushed: https://github.com/zneoxlab/ghostmessenger
 
 ## Development and project entry
 
