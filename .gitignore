@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.*
+!.env.example
+*.log
+data/
+work/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Keep .kiro/ tracked: specs, steering, and actual development evidence matter.
